@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   },
   title:{
     fontWeight: 'bold',
-    fontSize:18
+    fontSize:11
   }
 
 
